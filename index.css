@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap');
+
+
+
+body {
+    background-color: crimson;
+}
+
+p {
+    text-align: center;
+    font-family: "MedievalSharp", serif;
+    font-size: 4em;
+    color: yellow;
+    text-shadow: 3px 3px 2px black;
+}
+
+img {
+    width: 25%;
+    height: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
